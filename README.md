@@ -30,7 +30,8 @@
   - react native
      
 <h2>framework <h4>
-  - laravel 8
+  - laravel 8 
+  - mongoDB NoSQL
   
  <h2>other<h4>
    
