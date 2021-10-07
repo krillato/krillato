@@ -17,27 +17,31 @@
   
    <h2>My skill <h4>
      
-  - PHP
+  - *PHP
      
-  - JavaScript
+  - *JavaScript
      
-  - HTML
+  - *HTML
      
-  - CSS
+  - *CSS
      
-  - SQL
+  - *SQL
      
   - react native
      
 <h2>framework <h4>
-  - laravel 8 
-  - mongoDB NoSQL
+  - laravel 8  <br>
+  - mongoDB NoSQL<br>
+  - *VsCode <br>
+  - *SQLite <br>
+  - MySQL <br>
+  - *PhpMyadmin
   
  <h2>other<h4>
    
   - XML
    
-  - AJAX
+  - *AJAX
    
   - expo
    
