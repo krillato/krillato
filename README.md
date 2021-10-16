@@ -28,6 +28,9 @@
   - *SQL
      
   - react native
+    
+  - NodeJS
+    
      
 <h2>framework <h4>
   - laravel 8  <br>
