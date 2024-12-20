@@ -17,6 +17,20 @@
 
 ---
 
+# 💼 Work Experience  
+
+### **Axons Corporate (CPF-IT)** | Apr 2022 – Present  
+**Software Developer Front-End**  
+- Developed responsive user interfaces using **React** and **TypeScript**.  
+- Integrated frontend with backend services via **REST APIs**.  
+- Implemented **Redux** and **Context API** for state management.  
+- Designed and optimized reusable **UI components** for scalability and consistency.  
+- Utilized **TailwindCSS** and **Styled Components** for dynamic styling.  
+- Conducted **unit testing** and **UI testing** using tools like **Jest** and **Cypress**.  
+- Collaborated within an Agile team to ensure timely delivery of high-quality solutions.  
+
+---
+
 ## 🛠️ Tech Stack  
 
 ### **Languages**  
